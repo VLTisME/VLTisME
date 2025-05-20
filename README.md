@@ -5,7 +5,7 @@ I have _a solitary soul, echoing through every melancholic melody._
 
 ## My Passions  
 
-Currently, I'm learning about AI in general and computer vision in particular. I'm also taking an intensive course in MLOps, hoping to gain valuable insights from it. Additionally, I do some works related to competitive programming, such as preparing problems and participating in competitions ^_^.
+Currently, I'm exploring the world of AI, with a particular focus on computer vision. I'm also taking an intensive MLOps course to strengthen my knowledge in the field, and I plan to deepen my understanding through self-directed learning. In addition, I'm actively involved in competitive programming, whether it's preparing problems or participating in competitions. ^_^
 
 ## Activities
 
