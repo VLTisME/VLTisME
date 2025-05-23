@@ -1,8 +1,6 @@
 ## About Me
 Hi, my name is Võ Lân Tuấn, you can call me **pengon**, and I'm a freshman at VNUHCM - University of Science.
 
-I have _a solitary soul, echoing through every melancholic melody._
-
 ## My Passions  
 
 Currently, I'm exploring the world of AI, with a particular focus on computer vision. I'm also taking an intensive MLOps course to strengthen my knowledge in the field, and I plan to deepen my understanding through self-directed learning. In addition, I'm actively involved in competitive programming, whether it's preparing problems or participating in competitions. ^_^
