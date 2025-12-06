@@ -1,16 +1,9 @@
 ## About Me
-Hi, my name is Võ Lân Tuấn, you can call me **pengon**, and I'm a freshman at VNUHCM - University of Science.
+Hi, my name is Võ Lân Tuấn, you can call me **pengon**, and I'm a second year student at VNUHCM - University of Science.
 
-## My Passions  
-
-Currently, I'm exploring the world of AI, with a particular focus on computer vision. I'm also taking an intensive MLOps course to strengthen my knowledge in the field, and I plan to deepen my understanding through self-directed learning. In addition, I'm actively involved in competitive programming, whether it's preparing problems or participating in competitions. ^_^
+## My Passions
+I’m passionate about AI, with current interests in Advanced Computer Vision, Reinforcement Learning, and MLOps. I love self-studying and finding beauty in the art of learning. I also enjoy competitive programming, which keeps me sharp and entertained.
 
 ## Activities
-
-- AI & DS Specialist at Google Developer Group on Campus - HCMUS (2024 -- present).
-- VNOI Volunteer at Contest Team (2024 -- present).
-- Student at VNUHCM - University of Science (2024 -- present).
-
-## Contacts
-
-- Email: volantuan0908@gmail.com
+- From Member to Head of AI & DS Team | GDG on Campus- HCMUS | 2024 - Present
+- From Member to Coordinator | Bedao Team, VNOI | 2024 - Present
